@@ -8,6 +8,8 @@ __version__ = '0.1.0.0a0'
 
 import sys
 
+"from <directoy>.<filename> import <class>
+"from <directoy>.<filename> import <function name>
 from ref.ref import hello
 from module1.module1 import func1
 from module2.module2 import func2
